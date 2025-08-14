@@ -1,4 +1,4 @@
-name: ZT
+name:  Url 
 
 on:
   workflow_dispatch:
@@ -6,31 +6,30 @@ on:
     - cron: '0 */6 * * *'
 
 jobs:
-  S1:
+  fetch-and-commit:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Checkout your repo
         uses: actions/checkout@v3
 
-      - name: Clone secret repo
+      - name: lrep
         run: |
-          # Secret-based folder name
-          FOLDER=$(echo "${{ secrets.XY }}" | md5sum | cut -d' ' -f1)
-          git clone --depth=1 "${{ secrets.XY }}" "$FOLDER"
+          git clone --depth=1 "${{ secrets.XY }}" source-repo
 
-      - name: Copy M3U files
+      - name:  files str
         run: |
-          TARGET=$(echo "${{ secrets.XY }}" | sha1sum | cut -d' ' -f1)
-          mkdir -p "$TARGET"
-          rsync -a --include='*/' --include='*.m3u' --exclude='*' "$FOLDER"/streams/ "$TARGET"/
+          mkdir -p country
+          rsync -av --include='*/' --include='*.m3u' --exclude='*' source-repo/streams/ country/
 
-      - name: Count files
-        run: echo "Count: $(find "$TARGET" -type f -name '*.m3u' | wc -l)"
-
-      - name: Commit & push
+      - name: Count M3U files copied
         run: |
-          git config user.name "AB"
-          git config user.email "ab@x.com"
-          git add "$TARGET"
-          git diff --cached --quiet || git commit -m "U"
+          echo "Total files : $(find streams -type f -name '*.m3u' | wc -l)"
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "AutoBot"
+          git config user.email "actions@github.com"
+          git add country
+          git diff --cached --quiet || git commit -m "Auto update M3U files (country structure)"
           git push
