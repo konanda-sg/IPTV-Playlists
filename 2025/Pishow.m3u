@@ -1,0 +1,409 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="cliQ India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,cliQ India
+https://pishow-backend.vercel.app/stream/1/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="HINDU DHARMAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,HINDU DHARMAM
+https://pishow-backend.vercel.app/stream/2/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="SUBHAVARTHA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow",SUBHAVARTHA TV
+https://pishow-backend.vercel.app/stream/3/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="BAKTHI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,BAKTHI TV
+https://pishow-backend.vercel.app/stream/4/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="SANT WANI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,SANT WANI
+https://pishow-backend.vercel.app/stream/5/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CVR SPIRTUAL OM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,CVR SPIRTUAL OM
+https://pishow-backend.vercel.app/stream/6/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="JINVANI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,JINVANI
+https://pishow-backend.vercel.app/stream/7/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="SRI SANKARA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,SRI SANKARA
+https://pishow-backend.vercel.app/stream/8/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="MADHA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,MADHA TV
+https://pishow-backend.vercel.app/stream/9/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="ISHWAR BHAKTI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,ISHWAR BHAKTI
+https://pishow-backend.vercel.app/stream/10/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="DD INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,DD INDIA
+https://pishow-backend.vercel.app/stream/11/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="6TV TELANGANA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,6TV TELANGANA
+https://pishow-backend.vercel.app/stream/12/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="HMTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,HMTV
+https://pishow-backend.vercel.app/stream/13/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="T NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,T NEWS
+https://pishow-backend.vercel.app/stream/14/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="MAHAA NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,MAHAA NEWS
+https://pishow-backend.vercel.app/stream/15/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="STUDIO N NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,STUDIO N NEWS
+https://pishow-backend.vercel.app/stream/16/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CVR ENGLISH NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,CVR ENGLISH NEWS
+https://pishow-backend.vercel.app/stream/17/index.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="SAAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,SAAM TV
+https://pishow-backend.vercel.app/stream/18/index.m3u8
+#EXTINF:-1 tvg-id="19" tvg-name="PUBLIC TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,PUBLIC TV
+https://pishow-backend.vercel.app/stream/19/index.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="SWADESH NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,SWADESH NEWS
+https://pishow-backend.vercel.app/stream/20/index.m3u8
+#EXTINF:-1 tvg-id="21" tvg-name="BRK NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,BRK NEWS
+https://pishow-backend.vercel.app/stream/21/index.m3u8
+#EXTINF:-1 tvg-id="22" tvg-name="BHARAT EXPRESS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,BHARAT EXPRESS
+https://pishow-backend.vercel.app/stream/22/index.m3u8
+#EXTINF:-1 tvg-id="23" tvg-name="PUTHIYA TALAIMURI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,PUTHIYA TALAIMURI
+https://pishow-backend.vercel.app/stream/23/index.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="NEWS J" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,NEWS J
+https://pishow-backend.vercel.app/stream/24/index.m3u8
+#EXTINF:-1 tvg-id="25" tvg-name="NEWS TAMIL 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,NEWS TAMIL 24/7
+https://pishow-backend.vercel.app/stream/25/index.m3u8
+#EXTINF:-1 tvg-id="26" tvg-name="MALAI MURASU SEITHIGAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,MALAI MURASU SEITHIGAL
+https://pishow-backend.vercel.app/stream/26/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="THANTHI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,THANTHI TV
+https://pishow-backend.vercel.app/stream/27/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="ANB NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,ANB NEWS
+https://pishow-backend.vercel.app/stream/28/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="DD MALAYALAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,DD MALAYALAM
+https://pishow-backend.vercel.app/stream/29/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="DD SAHYADRI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,DD SAHYADRI
+https://pishow-backend.vercel.app/stream/30/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="B4U KADAK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,B4U KADAK
+https://pishow-backend.vercel.app/stream/31/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="WOW CINEMA ONE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,WOW CINEMA ONE
+https://pishow-backend.vercel.app/stream/32/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="STUDIO ONE PLUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,STUDIO ONE PLUS
+https://pishow-backend.vercel.app/stream/33/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="MANORANJAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,MANORANJAN TV
+https://pishow-backend.vercel.app/stream/34/index.m3u8
+#EXTINF:-1 tvg-id="35" tvg-name="MOVIE PLUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,MOVIE PLUS
+https://pishow-backend.vercel.app/stream/35/index.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="GOLDMINES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,GOLDMINES
+https://pishow-backend.vercel.app/stream/36/index.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="9X JHAKAAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,9X JHAKAAS
+https://pishow-backend.vercel.app/stream/37/index.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="MUSIC INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,MUSIC INDIA
+https://pishow-backend.vercel.app/stream/38/index.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="MK TUNES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,MK TUNES
+https://pishow-backend.vercel.app/stream/39/index.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="PUBLIC MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,PUBLIC MUSIC
+https://pishow-backend.vercel.app/stream/40/index.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="KAPPA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,KAPPA TV
+https://pishow-backend.vercel.app/stream/41/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="RAJ MUSIX TELUGU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,RAJ MUSIX TELUGU
+https://pishow-backend.vercel.app/stream/42/index.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="MK SIX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,MK SIX
+https://pishow-backend.vercel.app/stream/43/index.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="7S MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,7S MUSIC
+https://pishow-backend.vercel.app/stream/44/index.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="9X TASHAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,9X TASHAN
+https://pishow-backend.vercel.app/stream/45/index.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="MUSIC INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,MUSIC INDIA
+https://pishow-backend.vercel.app/stream/46/index.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="B4U KADAK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,B4U KADAK
+https://pishow-backend.vercel.app/stream/47/index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="WOW CINEMA ONE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,WOW CINEMA ONE
+https://pishow-backend.vercel.app/stream/48/index.m3u8
+#EXTINF:-1 tvg-id="49" tvg-name="SWADESH NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,SWADESH NEWS
+https://pishow-backend.vercel.app/stream/49/index.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="SANT WANI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,SANT WANI
+https://pishow-backend.vercel.app/stream/50/index.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="JINVANI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,JINVANI
+https://pishow-backend.vercel.app/stream/51/index.m3u8
+#EXTINF:-1 tvg-id="52" tvg-name="MANORANJAN GRAND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,MANORANJAN GRAND
+https://pishow-backend.vercel.app/stream/52/index.m3u8
+#EXTINF:-1 tvg-id="53" tvg-name="MANORANJAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,MANORANJAN TV
+https://pishow-backend.vercel.app/stream/53/index.m3u8
+#EXTINF:-1 tvg-id="54" tvg-name="BANSAL NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,BANSAL NEWS
+https://pishow-backend.vercel.app/stream/54/index.m3u8
+#EXTINF:-1 tvg-id="55" tvg-name="BHARAT EXPRESS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,BHARAT EXPRESS
+https://pishow-backend.vercel.app/stream/55/index.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="DANGAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,DANGAL
+https://pishow-backend.vercel.app/stream/56/index.m3u8
+#EXTINF:-1 tvg-id="57" tvg-name="MOVIE PLUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,MOVIE PLUS
+https://pishow-backend.vercel.app/stream/57/index.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="DHAMAAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,DHAMAAL
+https://pishow-backend.vercel.app/stream/58/index.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="GOLDMINES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,GOLDMINES
+https://pishow-backend.vercel.app/stream/59/index.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="ISHWAR BHAKTI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,ISHWAR BHAKTI
+https://pishow-backend.vercel.app/stream/60/index.m3u8
+#EXTINF:-1 tvg-id="61" tvg-name="ANB NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,ANB NEWS
+https://pishow-backend.vercel.app/stream/61/index.m3u8
+#EXTINF:-1 tvg-id="62" tvg-name="PUBLIC TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,PUBLIC TV
+https://pishow-backend.vercel.app/stream/62/index.m3u8
+#EXTINF:-1 tvg-id="63" tvg-name="PUBLIC MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,PUBLIC MUSIC
+https://pishow-backend.vercel.app/stream/63/index.m3u8
+#EXTINF:-1 tvg-id="64" tvg-name="SRI SANKARA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,SRI SANKARA
+https://pishow-backend.vercel.app/stream/64/index.m3u8
+#EXTINF:-1 tvg-id="65" tvg-name="DD MALAYALAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,DD MALAYALAM
+https://pishow-backend.vercel.app/stream/65/index.m3u8
+#EXTINF:-1 tvg-id="66" tvg-name="KAPPA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,KAPPA TV
+https://pishow-backend.vercel.app/stream/66/index.m3u8
+#EXTINF:-1 tvg-id="67" tvg-name="KAUMUDY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,KAUMUDY
+https://pishow-backend.vercel.app/stream/67/index.m3u8
+#EXTINF:-1 tvg-id="68" tvg-name="WE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,WE
+https://pishow-backend.vercel.app/stream/68/index.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="9X JHAKAAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,9X JHAKAAS
+https://pishow-backend.vercel.app/stream/69/index.m3u8
+#EXTINF:-1 tvg-id="70" tvg-name="DD SAHYADRI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,DD SAHYADRI
+https://pishow-backend.vercel.app/stream/70/index.m3u8
+#EXTINF:-1 tvg-id="71" tvg-name="SAAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,SAAM TV
+https://pishow-backend.vercel.app/stream/71/index.m3u8
+#EXTINF:-1 tvg-id="72" tvg-name="MK TUNES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,MK TUNES
+https://pishow-backend.vercel.app/stream/72/index.m3u8
+#EXTINF:-1 tvg-id="73" tvg-name="MALAR TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,MALAR TV
+https://pishow-backend.vercel.app/stream/73/index.m3u8
+#EXTINF:-1 tvg-id="74" tvg-name="VASANTH TV" tvg-logo="https://images.ottplay.com/images/1e2a243b-d0c6-478e-ad9b-32c657d782ea-1694590363.jpeg" group-title="Pishow" ,VASANTH TV
+https://pishow-backend.vercel.app/stream/74/index.m3u8
+#EXTINF:-1 tvg-id="75" tvg-name="MK SIX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,MK SIX
+https://pishow-backend.vercel.app/stream/75/index.m3u8
+#EXTINF:-1 tvg-id="76" tvg-name="7S MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,7S MUSIC
+https://pishow-backend.vercel.app/stream/76/index.m3u8
+#EXTINF:-1 tvg-id="77" tvg-name="PUTHIYA TALAIMURI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,PUTHIYA TALAIMURI
+https://pishow-backend.vercel.app/stream/77/index.m3u8
+#EXTINF:-1 tvg-id="78" tvg-name="MADHA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,MADHA TV
+https://pishow-backend.vercel.app/stream/78/index.m3u8
+#EXTINF:-1 tvg-id="79" tvg-name="NEWS J" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,NEWS J
+https://pishow-backend.vercel.app/stream/79/index.m3u8
+#EXTINF:-1 tvg-id="80" tvg-name="SHALINI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,SHALINI TV
+https://pishow-backend.vercel.app/stream/80/index.m3u8
+#EXTINF:-1 tvg-id="81" tvg-name="NAMBIKKAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,NAMBIKKAI TV
+https://pishow-backend.vercel.app/stream/81/index.m3u8
+#EXTINF:-1 tvg-id="82" tvg-name="NEWS TAMIL 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,NEWS TAMIL 24/7
+https://pishow-backend.vercel.app/stream/82/index.m3u8
+#EXTINF:-1 tvg-id="83" tvg-name="MK TELEVISION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,MK TELEVISION
+https://pishow-backend.vercel.app/stream/83/index.m3u8
+#EXTINF:-1 tvg-id="84" tvg-name="MALAI MURASU SEITHIGAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,MALAI MURASU SEITHIGAL
+https://pishow-backend.vercel.app/stream/84/index.m3u8
+#EXTINF:-1 tvg-id="85" tvg-name="SAIRAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,SAIRAM TV
+https://pishow-backend.vercel.app/stream/85/index.m3u8
+#EXTINF:-1 tvg-id="86" tvg-name="THANTHI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,THANTHI TV
+https://pishow-backend.vercel.app/stream/86/index.m3u8
+#EXTINF:-1 tvg-id="87" tvg-name="DD YADAGIRI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,DD YADAGIRI
+https://pishow-backend.vercel.app/stream/87/index.m3u8
+#EXTINF:-1 tvg-id="88" tvg-name="DD SAPTAGIRI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,DD SAPTAGIRI
+https://pishow-backend.vercel.app/stream/88/index.m3u8
+#EXTINF:-1 tvg-id="89" tvg-name="6TV TELANGANA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,6TV TELANGANA
+https://pishow-backend.vercel.app/stream/89/index.m3u8
+#EXTINF:-1 tvg-id="90" tvg-name="STUDIO ONE PLUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,STUDIO ONE PLUS
+https://pishow-backend.vercel.app/stream/90/index.m3u8
+#EXTINF:-1 tvg-id="91" tvg-name="SUBHAVARTHA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,SUBHAVARTHA TV
+https://pishow-backend.vercel.app/stream/91/index.m3u8
+#EXTINF:-1 tvg-id="92" tvg-name="HMTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,HMTV
+https://pishow-backend.vercel.app/stream/92/index.m3u8
+#EXTINF:-1 tvg-id="93" tvg-name="T NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,T NEWS
+https://pishow-backend.vercel.app/stream/93/index.m3u8
+#EXTINF:-1 tvg-id="94" tvg-name="VANITHA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,VANITHA
+https://pishow-backend.vercel.app/stream/94/index.m3u8
+#EXTINF:-1 tvg-id="95" tvg-name="BAKTHI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,BAKTHI TV
+https://pishow-backend.vercel.app/stream/95/index.m3u8
+#EXTINF:-1 tvg-id="96" tvg-name="MAHAA NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,MAHAA NEWS
+https://pishow-backend.vercel.app/stream/96/index.m3u8
+#EXTINF:-1 tvg-id="97" tvg-name="STUDIO N NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,STUDIO N NEWS
+https://pishow-backend.vercel.app/stream/97/index.m3u8
+#EXTINF:-1 tvg-id="98" tvg-name="CVR SPIRTUAL OM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,CVR SPIRTUAL OM
+https://pishow-backend.vercel.app/stream/98/index.m3u8
+#EXTINF:-1 tvg-id="99" tvg-name="HINDU DHARMAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,HINDU DHARMAM
+https://pishow-backend.vercel.app/stream/99/index.m3u8
+#EXTINF:-1 tvg-id="100" tvg-name="NIREEKSHANA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,NIREEKSHANA TV
+https://pishow-backend.vercel.app/stream/100/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="BRK NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,BRK NEWS
+https://pishow-backend.vercel.app/stream/101/index.m3u8
+#EXTINF:-1 tvg-id="102" tvg-name="RAJ MUSIX TELUGU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,RAJ MUSIX TELUGU
+https://pishow-backend.vercel.app/stream/102/index.m3u8
+#EXTINF:-1 tvg-id="103" tvg-name="cliQ India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,cliQ India
+https://pishow-backend.vercel.app/stream/103/index.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="RT TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,RT TV
+https://pishow-backend.vercel.app/stream/104/index.m3u8
+#EXTINF:-1 tvg-id="105" tvg-name="Darshanam Bhakti Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,Darshanam Bhakti Channel
+https://pishow-backend.vercel.app/stream/105/index.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="SITI 24x7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,SITI 24x7
+https://pishow-backend.vercel.app/stream/106/index.m3u8
+#EXTINF:-1 tvg-id="107" tvg-name="Pitaara TV" tvg-logo="https://images.ottplay.com/images/media/gallery/distrotvlogohoz-304.jpg" group-title="Pishow" ,Pitaara TV
+https://pishow-backend.vercel.app/stream/107/index.m3u8
+#EXTINF:-1 tvg-id="108" tvg-name="Divya" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,Divya
+https://pishow-backend.vercel.app/stream/108/index.m3u8
+#EXTINF:-1 tvg-id="109" tvg-name="RT Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,RT Documentary
+https://pishow-backend.vercel.app/stream/109/index.m3u8
+#EXTINF:-1 tvg-id="110" tvg-name="FRANCE 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,FRANCE 24
+https://pishow-backend.vercel.app/stream/110/index.m3u8
+#EXTINF:-1 tvg-id="111" tvg-name="Haryana Beats" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,Haryana Beats
+https://pishow-backend.vercel.app/stream/111/index.m3u8
+#EXTINF:-1 tvg-id="112" tvg-name="Gurbani TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,Gurbani TV
+https://pishow-backend.vercel.app/stream/112/index.m3u8
+#EXTINF:-1 tvg-id="113" tvg-name="Global Punjab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,Global Punjab
+https://pishow-backend.vercel.app/stream/113/index.m3u8
+#EXTINF:-1 tvg-id="114" tvg-name="9X JHAKAAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,9X JHAKAAS
+https://pishow-backend.vercel.app/stream/114/index.m3u8
+#EXTINF:-1 tvg-id="115" tvg-name="DD YADAGIRI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,DD YADAGIRI
+https://pishow-backend.vercel.app/stream/115/index.m3u8
+#EXTINF:-1 tvg-id="116" tvg-name="DD SAPTAGIRI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,DD SAPTAGIRI
+https://pishow-backend.vercel.app/stream/116/index.m3u8
+#EXTINF:-1 tvg-id="117" tvg-name="DD INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,DD INDIA
+https://pishow-backend.vercel.app/stream/117/index.m3u8
+#EXTINF:-1 tvg-id="118" tvg-name="DD MALAYALAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,DD MALAYALAM
+https://pishow-backend.vercel.app/stream/118/index.m3u8
+#EXTINF:-1 tvg-id="119" tvg-name="DD SAHYADRI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,DD SAHYADRI
+https://pishow-backend.vercel.app/stream/119/index.m3u8
+#EXTINF:-1 tvg-id="120" tvg-name="DD SANSAD TV (RAJYA SABHA)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,DD SANSAD TV (RAJYA SABHA)
+https://pishow-backend.vercel.app/stream/120/index.m3u8
+#EXTINF:-1 tvg-id="121" tvg-name="MUSIC INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,MUSIC INDIA
+https://pishow-backend.vercel.app/stream/121/index.m3u8
+#EXTINF:-1 tvg-id="122" tvg-name="B4U KADAK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,B4U KADAK
+https://pishow-backend.vercel.app/stream/122/index.m3u8
+#EXTINF:-1 tvg-id="123" tvg-name="WOW CINEMA ONE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,WOW CINEMA ONE
+https://pishow-backend.vercel.app/stream/123/index.m3u8
+#EXTINF:-1 tvg-id="124" tvg-name="6TV TELANGANA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,6TV TELANGANA
+https://pishow-backend.vercel.app/stream/124/index.m3u8
+#EXTINF:-1 tvg-id="125" tvg-name="AASTHA KANNADA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,AASTHA KANNADA
+https://pishow-backend.vercel.app/stream/125/index.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="Popcorn Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,Popcorn Movies
+https://pishow-backend.vercel.app/stream/126/index.m3u8
+#EXTINF:-1 tvg-id="127" tvg-name="STUDIO ONE PLUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,STUDIO ONE PLUS
+https://pishow-backend.vercel.app/stream/127/index.m3u8
+#EXTINF:-1 tvg-id="128" tvg-name="SUBHAVARTHA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,SUBHAVARTHA TV
+https://pishow-backend.vercel.app/stream/128/index.m3u8
+#EXTINF:-1 tvg-id="129" tvg-name="HMTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,HMTV
+https://pishow-backend.vercel.app/stream/129/index.m3u8
+#EXTINF:-1 tvg-id="130" tvg-name="R KANNADA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,R KANNADA
+https://pishow-backend.vercel.app/stream/130/index.m3u8
+#EXTINF:-1 tvg-id="131" tvg-name="T NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,T NEWS
+https://pishow-backend.vercel.app/stream/131/index.m3u8
+#EXTINF:-1 tvg-id="132" tvg-name="VANITHA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,VANITHA
+https://pishow-backend.vercel.app/stream/132/index.m3u8
+#EXTINF:-1 tvg-id="133" tvg-name="BAKTHI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,BAKTHI TV
+https://pishow-backend.vercel.app/stream/133/index.m3u8
+#EXTINF:-1 tvg-id="134" tvg-name="MAHAA NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,MAHAA NEWS
+https://pishow-backend.vercel.app/stream/134/index.m3u8
+#EXTINF:-1 tvg-id="135" tvg-name="STUDIO N NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,STUDIO N NEWS
+https://pishow-backend.vercel.app/stream/135/index.m3u8
+#EXTINF:-1 tvg-id="136" tvg-name="CVR ENGLISH NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,CVR ENGLISH NEWS
+https://pishow-backend.vercel.app/stream/136/index.m3u8
+#EXTINF:-1 tvg-id="137" tvg-name="MK TUNES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,MK TUNES
+https://pishow-backend.vercel.app/stream/137/index.m3u8
+#EXTINF:-1 tvg-id="138" tvg-name="SAAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,SAAM TV
+https://pishow-backend.vercel.app/stream/138/index.m3u8
+#EXTINF:-1 tvg-id="139" tvg-name="PUBLIC TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,PUBLIC TV
+https://pishow-backend.vercel.app/stream/139/index.m3u8
+#EXTINF:-1 tvg-id="140" tvg-name="PUBLIC MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,PUBLIC MUSIC
+https://pishow-backend.vercel.app/stream/140/index.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="VALICHAM PLUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,VALICHAM PLUS
+https://pishow-backend.vercel.app/stream/141/index.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="SWADESH NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,SWADESH NEWS
+https://pishow-backend.vercel.app/stream/142/index.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="MALAR TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,MALAR TV
+https://pishow-backend.vercel.app/stream/143/index.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SANT WANI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,SANT WANI
+https://pishow-backend.vercel.app/stream/144/index.m3u8
+#EXTINF:-1 tvg-id="145" tvg-name="CVR SPIRTUAL OM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,CVR SPIRTUAL OM
+https://pishow-backend.vercel.app/stream/145/index.m3u8
+#EXTINF:-1 tvg-id="146" tvg-name="HINDU DHARMAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,HINDU DHARMAM
+https://pishow-backend.vercel.app/stream/146/index.m3u8
+#EXTINF:-1 tvg-id="147" tvg-name="NIREEKSHANA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,NIREEKSHANA TV
+https://pishow-backend.vercel.app/stream/147/index.m3u8
+#EXTINF:-1 tvg-id="148" tvg-name="JINVANI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,JINVANI
+https://pishow-backend.vercel.app/stream/148/index.m3u8
+#EXTINF:-1 tvg-id="149" tvg-name="ANJAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,ANJAN TV
+https://pishow-backend.vercel.app/stream/149/index.m3u8
+#EXTINF:-1 tvg-id="150" tvg-name="MANORANJAN GRAND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,MANORANJAN GRAND
+https://pishow-backend.vercel.app/stream/150/index.m3u8
+#EXTINF:-1 tvg-id="151" tvg-name="MANORANJAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,MANORANJAN TV
+https://pishow-backend.vercel.app/stream/151/index.m3u8
+#EXTINF:-1 tvg-id="152" tvg-name="BRK NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,BRK NEWS
+https://pishow-backend.vercel.app/stream/152/index.m3u8
+#EXTINF:-1 tvg-id="153" tvg-name="BANSAL NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,BANSAL NEWS
+https://pishow-backend.vercel.app/stream/153/index.m3u8
+#EXTINF:-1 tvg-id="154" tvg-name="KAPPA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,KAPPA TV
+https://pishow-backend.vercel.app/stream/154/index.m3u8
+#EXTINF:-1 tvg-id="155" tvg-name="SRI SANKARA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,SRI SANKARA
+https://pishow-backend.vercel.app/stream/155/index.m3u8
+#EXTINF:-1 tvg-id="156" tvg-name="BHARAT EXPRESS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,BHARAT EXPRESS
+https://pishow-backend.vercel.app/stream/156/index.m3u8
+#EXTINF:-1 tvg-id="157" tvg-name="DANGAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,DANGAL
+https://pishow-backend.vercel.app/stream/157/index.m3u8
+#EXTINF:-1 tvg-id="158" tvg-name="MOVIE PLUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,MOVIE PLUS
+https://pishow-backend.vercel.app/stream/158/index.m3u8
+#EXTINF:-1 tvg-id="159" tvg-name="RAJ MUSIX TELUGU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,RAJ MUSIX TELUGU
+https://pishow-backend.vercel.app/stream/159/index.m3u8
+#EXTINF:-1 tvg-id="160" tvg-name="Aastha Bhajan" tvg-logo="https://images.ottplay.com/images/zee5logohoz-388.jpg" group-title="Pishow" ,Aastha Bhajan
+https://pishow-backend.vercel.app/stream/160/index.m3u8
+#EXTINF:-1 tvg-id="161" tvg-name="KAUMUDY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,KAUMUDY
+https://pishow-backend.vercel.app/stream/161/index.m3u8
+#EXTINF:-1 tvg-id="162" tvg-name="VASANTH TV" tvg-logo="https://images.ottplay.com/images/1e2a243b-d0c6-478e-ad9b-32c657d782ea-1694590363.jpeg" group-title="Pishow" ,VASANTH TV
+https://pishow-backend.vercel.app/stream/162/index.m3u8
+#EXTINF:-1 tvg-id="163" tvg-name="MK SIX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,MK SIX
+https://pishow-backend.vercel.app/stream/163/index.m3u8
+#EXTINF:-1 tvg-id="164" tvg-name="7S MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,7S MUSIC
+https://pishow-backend.vercel.app/stream/164/index.m3u8
+#EXTINF:-1 tvg-id="165" tvg-name="PUTHIYA TALAIMURI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,PUTHIYA TALAIMURI
+https://pishow-backend.vercel.app/stream/165/index.m3u8
+#EXTINF:-1 tvg-id="166" tvg-name="MADHA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,MADHA TV
+https://pishow-backend.vercel.app/stream/166/index.m3u8
+#EXTINF:-1 tvg-id="167" tvg-name="NEWS J" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,NEWS J
+https://pishow-backend.vercel.app/stream/167/index.m3u8
+#EXTINF:-1 tvg-id="168" tvg-name="DHAMAAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,DHAMAAL
+https://pishow-backend.vercel.app/stream/168/index.m3u8
+#EXTINF:-1 tvg-id="169" tvg-name="SHALINI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,SHALINI TV
+https://pishow-backend.vercel.app/stream/169/index.m3u8
+#EXTINF:-1 tvg-id="170" tvg-name="PEPPERS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,PEPPERS
+https://pishow-backend.vercel.app/stream/170/index.m3u8
+#EXTINF:-1 tvg-id="171" tvg-name="NAMBIKKAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,NAMBIKKAI TV
+https://pishow-backend.vercel.app/stream/171/index.m3u8
+#EXTINF:-1 tvg-id="172" tvg-name="NEWS TAMIL 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,NEWS TAMIL 24/7
+https://pishow-backend.vercel.app/stream/172/index.m3u8
+#EXTINF:-1 tvg-id="173" tvg-name="DARSHANA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,DARSHANA TV
+https://pishow-backend.vercel.app/stream/173/index.m3u8
+#EXTINF:-1 tvg-id="174" tvg-name="DHARAM SANDESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,DHARAM SANDESH
+https://pishow-backend.vercel.app/stream/174/index.m3u8
+#EXTINF:-1 tvg-id="175" tvg-name="DHOOM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,DHOOM
+https://pishow-backend.vercel.app/stream/175/index.m3u8
+#EXTINF:-1 tvg-id="176" tvg-name="GOLDMINES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,GOLDMINES
+https://pishow-backend.vercel.app/stream/176/index.m3u8
+#EXTINF:-1 tvg-id="177" tvg-name="GOLDMINES 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,GOLDMINES 2
+https://pishow-backend.vercel.app/stream/177/index.m3u8
+#EXTINF:-1 tvg-id="178" tvg-name="HORNBILL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,HORNBILL TV
+https://pishow-backend.vercel.app/stream/178/index.m3u8
+#EXTINF:-1 tvg-id="179" tvg-name="ISHWAR BHAKTI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,ISHWAR BHAKTI
+https://pishow-backend.vercel.app/stream/179/index.m3u8
+#EXTINF:-1 tvg-id="180" tvg-name="JAI MAHARASTHRA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,JAI MAHARASTHRA
+https://pishow-backend.vercel.app/stream/180/index.m3u8
+#EXTINF:-1 tvg-id="181" tvg-name="JEEVAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,JEEVAN TV
+https://pishow-backend.vercel.app/stream/181/index.m3u8
+#EXTINF:-1 tvg-id="182" tvg-name="KAIRALI NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,KAIRALI NEWS
+https://pishow-backend.vercel.app/stream/182/index.m3u8
+#EXTINF:-1 tvg-id="183" tvg-name="MATHIMUGAM THOLAIKATCHI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,MATHIMUGAM THOLAIKATCHI
+https://pishow-backend.vercel.app/stream/183/index.m3u8
+#EXTINF:-1 tvg-id="184" tvg-name="MAZHAVIL MANORAMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,MAZHAVIL MANORAMA
+https://pishow-backend.vercel.app/stream/184/index.m3u8
+#EXTINF:-1 tvg-id="185" tvg-name="MEDIA ONE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,MEDIA ONE
+https://pishow-backend.vercel.app/stream/185/index.m3u8
+#EXTINF:-1 tvg-id="186" tvg-name="MK TELEVISION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,MK TELEVISION
+https://pishow-backend.vercel.app/stream/186/index.m3u8
+#EXTINF:-1 tvg-id="187" tvg-name="NEWS TIME" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,NEWS TIME
+https://pishow-backend.vercel.app/stream/187/index.m3u8
+#EXTINF:-1 tvg-id="188" tvg-name="NEWS7 TAMIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,NEWS7 TAMIL
+https://pishow-backend.vercel.app/stream/188/index.m3u8
+#EXTINF:-1 tvg-id="189" tvg-name="REPORTER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,REPORTER TV
+https://pishow-backend.vercel.app/stream/189/index.m3u8
+#EXTINF:-1 tvg-id="190" tvg-name="SUDARSHAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,SUDARSHAN
+https://pishow-backend.vercel.app/stream/190/index.m3u8
+#EXTINF:-1 tvg-id="191" tvg-name="TOTAL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,TOTAL TV
+https://pishow-backend.vercel.app/stream/191/index.m3u8
+#EXTINF:-1 tvg-id="192" tvg-name="TV5 KANNADA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,TV5 KANNADA
+https://pishow-backend.vercel.app/stream/192/index.m3u8
+#EXTINF:-1 tvg-id="193" tvg-name="WE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,WE
+https://pishow-backend.vercel.app/stream/193/index.m3u8
+#EXTINF:-1 tvg-id="194" tvg-name="MALAI MURASU SEITHIGAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,MALAI MURASU SEITHIGAL
+https://pishow-backend.vercel.app/stream/194/index.m3u8
+#EXTINF:-1 tvg-id="195" tvg-name="SAIRAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,SAIRAM TV
+https://pishow-backend.vercel.app/stream/195/index.m3u8
+#EXTINF:-1 tvg-id="196" tvg-name="THANTHI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,THANTHI TV
+https://pishow-backend.vercel.app/stream/196/index.m3u8
+#EXTINF:-1 tvg-id="197" tvg-name="9X TASHAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,9X TASHAN
+https://pishow-backend.vercel.app/stream/197/index.m3u8
+#EXTINF:-1 tvg-id="198" tvg-name="DIVYA VANI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,DIVYA VANI
+https://pishow-backend.vercel.app/stream/198/index.m3u8
+#EXTINF:-1 tvg-id="199" tvg-name="News X - English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,News X - English
+https://pishow-backend.vercel.app/stream/199/index.m3u8
+#EXTINF:-1 tvg-id="200" tvg-name="India News U.P / Uttarakhand" tvg-logo="https://images.ottplay.com/images/media/gallery/distrotvlogohoz-304.jpg" group-title="Pishow" ,India News U.P / Uttarakhand
+https://pishow-backend.vercel.app/stream/200/index.m3u8
+#EXTINF:-1 tvg-id="201" tvg-name="India News Punjab" tvg-logo="https://images.ottplay.com/images/media/gallery/distrotvlogohoz-304.jpg" group-title="Pishow" ,India News Punjab
+https://pishow-backend.vercel.app/stream/201/index.m3u8
+#EXTINF:-1 tvg-id="202" tvg-name="India News Haryana" tvg-logo="https://images.ottplay.com/images/media/gallery/distrotvlogohoz-304.jpg" group-title="Pishow" ,India News Haryana
+https://pishow-backend.vercel.app/stream/202/index.m3u8
+#EXTINF:-1 tvg-id="203" tvg-name="India News Gujarat" tvg-logo="https://images.ottplay.com/images/shemaroologohoz-718.jpg" group-title="Pishow" ,India News Gujarat
+https://pishow-backend.vercel.app/stream/203/index.m3u8
+#EXTINF:-1 tvg-id="204" tvg-name="India News National" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhJB9tyYnfj5Ig_7TdMbI5kaz2GV9DRISDC0elLGA_Q_T_DdCNIll_xU&s=10" group-title="Pishow" ,India News National
+https://pishow-backend.vercel.app/stream/204/index.m3u8
